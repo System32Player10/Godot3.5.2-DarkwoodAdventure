@@ -1,2 +1,2 @@
 # Note for downloading
-Download the .exe and the .pck file and put them in the same folder (I recommend download them both as zip) or otherwise the game will crash.
+Download the zip file and extract all of the file in the same location (I recommend put it in a folder while extracting) or otherwise the game will crash because losing the .pck file.
