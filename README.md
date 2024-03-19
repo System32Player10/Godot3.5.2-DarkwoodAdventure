@@ -1,2 +1,2 @@
-# Godot3.5.2-DarkwoodAdventure
-My old game that i made for my coding extracurricular competition. I got in the 3rd place cause of this game, .yeayyy.....
+# Note for downloading
+Download the .exe and the .pck file and put them in the same folder (I recommend download them both as zip) or otherwise the game will crash.
